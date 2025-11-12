@@ -12,8 +12,7 @@ End the program.
 
 # PROGRAM:
 ```
-NAME: PREETHI A K
-REG NO: 212223230156
+
 
 #include <stdio.h>
 #include <stdlib.h>
